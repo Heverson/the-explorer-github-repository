@@ -5,7 +5,7 @@ This project has a Simple Search Engine from the list to favorites repositories,
 
 The explorer uses ReactJS ✻ with TypeScript 🤩
 
-![a5a052de50ea11b391572009cbbe1a01](https://user-images.githubusercontent.com/729786/82706464-072e1a00-9c50-11ea-92f9-57aa901bdf32.gif)
+<img src="https://user-images.githubusercontent.com/729786/82706464-072e1a00-9c50-11ea-92f9-57aa901bdf32.gif" width="450">
 
 
 
