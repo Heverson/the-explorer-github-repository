@@ -23,5 +23,5 @@ The explorer uses ReactJS ✻ with TypeScript 🤩
 </p>
 
 <p>
-Thanks to 🚀[Rocketseat](https://github.com/Rocketseat) for shared knowledge
+  Thanks to <a href="https://github.com/Rocketseat">🚀 Rocketseat</a> for shared knowledge
 </p>
