@@ -1,6 +1,6 @@
 
 <p align="center">
-#The Explorer Github Repository 🕵🏻‍♂️
+<h1>The Explorer Github Repository 🕵🏻‍♂️</h1>
 </p> 
 <p align="center">
 This project has a Simple Search Engine from the list to favorites repositories, and follows issues. <br />
